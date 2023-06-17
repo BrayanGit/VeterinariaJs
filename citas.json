@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "cucho",
+    "edad": "2",
+    "animal": "años",
+    "color": "gato",
+    "enfermedad": "amarillo"
+  },
+  {
+    "nombre": "tayler",
+    "edad": "5",
+    "animal": "perro",
+    "color": "negro",
+    "enfermedad": "ansiedad"
+  },
+  {
+    "nombre": "maqui",
+    "edad": "10",
+    "animal": "perro",
+    "color": "neblanco",
+    "enfermedad": "tiña"
+  },
+  {
+    "nombre": "rango",
+    "edad": "1",
+    "animal": "iguana",
+    "color": "verde",
+    "enfermedad": "corte"
+  }
+]
